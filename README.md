@@ -4,7 +4,7 @@
 * How to get a demo site for GovCMS
 * Logging in to the backend of a GovCMS/Drupal site / overview of the various user roles / access to features based on permissions (reference publishing workflow here)
 
-## Content Editor topics
+## [Content Editor topics](content_editor/README.md)
 * Overview of the administrative toolbar and its various sections
 * Types of content and their purpose
 * Searching for and updating existing content / creating new content

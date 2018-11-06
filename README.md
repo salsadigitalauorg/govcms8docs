@@ -1,6 +1,6 @@
 # Welcome to the GovCMS 8 documentation wiki!
 
-## Introductory topics
+## [Introductory topics](intro/README.md)
 * How to get a demo site for GovCMS
 * Logging in to the backend of a GovCMS/Drupal site / overview of the various user roles / access to features based on permissions (reference publishing workflow here)
 
@@ -20,11 +20,11 @@
 * URLs, Paths and Aliases
 * Multilingual content and translation
 
-## Content Approver topics
+## [Content Approver topics](content_approver/README.md)
 * Overview of the administrative toolbar and its various sections
 * Approving Content
 
-## Site Builder/Editor topics
+## [Site Admin topics](site_admin/README.md)
 * Overview of the administrative toolbar and its various sections
 * Setting the site name/slogan, logo - designating a front page for your site*
 * Managing Users, Roles and Permissions

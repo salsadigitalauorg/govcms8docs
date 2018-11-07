@@ -21,11 +21,8 @@ certain user roles. To do so:
 3. Add a title for your content
 4. In the "Body" field, click the "Video Embed" button -> a dialog will pop up
 5. Copy the link to the video, and paste it in the "Video Url" field
-6. Optionally, you might consider disabling the "Autoplay" option, as some
-   people find it annoying/intrusive to have a video autoplay when the page
-   loads.
-7. Click "Save" to close the "Video Embed" dialog
-8. Scroll down the page and click "Save" to save the content
+6. Click "Save" to close the "Video Embed" dialog
+7. Scroll down the page and click "Save" to save the content
 
 You can embed video in existing content the same way. Simply edit the content,
 and repeat steps 3 to 8 above.

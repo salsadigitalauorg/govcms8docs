@@ -1,7 +1,7 @@
 # Adding a remote video in a field
 
 GovCMS out of the box suports adding remote videos from sources like YouTube and
-Vimeo as a field:
+Vimeo in fields:
 
 1. From the admin toolbar, navigate to: Content >> Add media >> Remote Video
 2. Use the "Name" field to add a title for the video as you would like it to

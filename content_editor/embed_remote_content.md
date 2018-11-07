@@ -12,9 +12,10 @@ Vimeo in fields:
 
 # Embedding a remote video into content via the rich text editor
 
-Although GovCMS out of the box does not support adding remote videos from within
-the rich text editor, some sites might already be configured to allow this for
-certain user roles. To do so:
+GovCMS out of the box does not support adding remote videos from within the rich
+text editor; *additional configuration is required to enable this feature*. Some
+sites might already be configured to allow this for certain user roles. Here's
+how to do so:
 
 1. From the admin toolbar, navigate to Content >> Add content
 2. Select a content type
@@ -25,4 +26,4 @@ certain user roles. To do so:
 7. Scroll down the page and click "Save" to save the content
 
 You can embed video in existing content the same way. Simply edit the content,
-and repeat steps 3 to 8 above.
+and repeat steps 4 to 7 above.
